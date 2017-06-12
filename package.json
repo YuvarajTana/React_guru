@@ -1,0 +1,24 @@
+{
+  "name": "react-guru",
+  "version": "1.0.0",
+  "description": "Learning react from basic to advance by building number of apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuvarajTana/react-guru.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuvarajTana/react-guru/issues"
+  },
+  "homepage": "https://github.com/YuvarajTana/react-guru#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
